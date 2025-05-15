@@ -83,7 +83,7 @@ Untuk menjalankan aplikasi ini, Anda perlu mengikuti langkah-langkah berikut:
 
 Local URL: http://localhost:8501
 Network URL: http://192.168.0.191:8501
-Link Deployment streamlit : [https://education-dropout-adilah-widiasti.streamlit.app/
+Link Deployment streamlit : [https://education-dropout.streamlit.app/
 ](https://submission-belajar-penerapan-data-science-tpqum3uoaal9hzbfdnnz.streamlit.app/)
 ## Cara menjalankan Streamlit
 
@@ -100,7 +100,7 @@ Link Deployment streamlit : [https://education-dropout-adilah-widiasti.streamlit
    dir
    streamlit run app.py
    Local URL: http://localhost:8501
-   Link Deployment streamlit : [https://education-dropout-adilah-widiasti.streamlit.app/
+   Link Deployment streamlit : [https://education-dropout.streamlit.app/
 ](https://submission-belajar-penerapan-data-science-tpqum3uoaal9hzbfdnnz.streamlit.app/)
 ## Business Dashboard
 

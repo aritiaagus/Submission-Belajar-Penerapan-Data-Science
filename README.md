@@ -83,12 +83,12 @@ Untuk menjalankan aplikasi ini, Anda perlu mengikuti langkah-langkah berikut:
 
 Local URL: http://localhost:8501
 Network URL: http://192.168.0.191:8501
-Link Deployment streamlit : https://education-dropout-adilah-widiasti.streamlit.app/
-
+Link Deployment streamlit : [https://education-dropout-adilah-widiasti.streamlit.app/
+](https://submission-belajar-penerapan-data-science-tpqum3uoaal9hzbfdnnz.streamlit.app/)
 ## Cara menjalankan Streamlit
 
 1. Buka Terminal CMD :
-   cd C:\Users\adila\Documents\Submission_Penerapan_Data_Science_Adilah
+   cd C:\Users\adila\Documents\Submission_Penerapan_Data_Science
 2. Buat Virtual Environment :
    python -m venv venv
 3. Aktifkan Virtual Environment :
@@ -96,12 +96,12 @@ Link Deployment streamlit : https://education-dropout-adilah-widiasti.streamlit.
 4. Install streamlit :
    pip install streamlit
 5. Jalankan streamlit :
-   CD\C:\Users\adila\Documents\Submission_Penerapan_Data_Science_Adilah
+   CD\C:\Users\adila\Documents\Submission_Penerapan_Data_Science
    dir
    streamlit run app.py
    Local URL: http://localhost:8501
-   Link Deployment streamlit : https://education-dropout-adilah-widiasti.streamlit.app/
-
+   Link Deployment streamlit : [https://education-dropout-adilah-widiasti.streamlit.app/
+](https://submission-belajar-penerapan-data-science-tpqum3uoaal9hzbfdnnz.streamlit.app/)
 ## Business Dashboard
 
 Dashboard bisnis ini dirancang untuk memprediksi kemungkinan seorang mahasiswa mengalami dropout di Jaya Jaya Institut. Prediksi dilakukan dengan menggunakan model machine learning yang telah dilatih sebelumnya untuk menganalisis data yang dimasukkan. Dashboard ini menyediakan berbagai kolom input yang mencerminkan faktor-faktor yang dapat memengaruhi dropout mahasiswa, seperti metode pendaftaran, mata kuliah yang diambil, riwayat pendidikan, pekerjaan orang tua, serta aspek akademik lainnya. Model yang telah disimpan akan memproses data tersebut dan menghasilkan prediksi, sehingga pengguna dapat memperoleh wawasan mengenai potensi dropout mahasiswa. Dengan adanya dashboard ini, Jaya Jaya Institut diharapkan dapat mengambil langkah preventif secara lebih dini guna menekan angka dropout dan mendukung kesuksesan akademik mahasiswa.
